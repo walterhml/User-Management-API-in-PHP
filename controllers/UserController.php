@@ -15,7 +15,6 @@ class UserController {
         echo json_encode($users);
     }
 
-    // Implemente outros métodos para CRUD aqui
 }
 
 $pdo = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
