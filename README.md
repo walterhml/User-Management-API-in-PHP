@@ -1,5 +1,6 @@
 # Documentação do Projeto
-(img)[assents/img.png]
+![image](/assents/img.png)
+
 ## API de Gerenciamento de Usuários em PHP
 
 Este projeto consiste em uma API simples para gerenciar usuários em PHP utilizando o padrão CRUD (Create, Read, Update, Delete). A API foi desenvolvida como parte de um desafio técnico e inclui operações básicas como criar, listar, atualizar e excluir usuários.
